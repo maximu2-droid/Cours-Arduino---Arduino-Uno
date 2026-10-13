@@ -1,0 +1,14 @@
+Bonjour ! Ici sera le dossier et les sous-dossiers des cours de Arduino, vous pourrez trouver les cours dans le fichier
+src tels que Variables, Fonctions...
+
+Bon apprentissage !
+
+
+
+
+
+ATTENTION ! Ouvrir le dossier dans VSCode avec platformIO IDE installée au préalable.
+
+A chaque doute, n'oubliez pas de brancher votre carte Arduino Uno !
+Ce cours est censé fonctionner sur tous les types de cartes, n'oubliez juste pas de copier le code dans un dossier de VOTRE CARTE !
+Si ça ne fonctionne toujours pas, tentez de créer un nouveau projet avec platformIO IDE, puis copiez/collez le code dans le fichier main.cpp.
